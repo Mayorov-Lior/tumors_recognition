@@ -1,0 +1,5 @@
+,file_name,tag
+0,./data/val/normal/TCGA-34-8455-11A-01-TS1.6a8ea5b2-1a64-429e-be1c-71b8d9401dc1.svs,0
+1,./data/val/normal/TCGA-66-2786-11A-01-BS1.df901b2d-3c92-4ce8-bac5-8b78c5b3d91a.svs,0
+2,./data/val/tumor/HCM-CSHL-0322-C20-01B-01-S1-HE.20DF1DF4-2CD1-4E67-B514-551BC8F06A3E.svs,1
+3,./data/val/tumor/HCM-CSHL-0366-C50-01A-01-S2-HE.39290D4D-2977-4960-B5A5-84872019A995.svs,1
